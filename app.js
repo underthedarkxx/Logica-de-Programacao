@@ -3,7 +3,8 @@ alert('Boa vindas ao jogo do número secreto');
 let numeroSecreto = 3;
 //O programa já vai mostrar o numero secreto porem somente no console.
 console.log(numeroSecreto);
-let chute 
+let chute;
+
 
 //enquanto chute não for igual o numero secreto
 while(chute != numeroSecreto){
