@@ -5,9 +5,16 @@ let numeroSecreto = 4;
 console.log(numeroSecreto);
 let chute = prompt('Escolha um número entre 1 e 30')
 
-// Se o chte for igual ao numero secreto
+// Se o chute for igual ao numero secreto
 if (chute == numeroSecreto){
     alert(`Isso ai! Voce descobriu o numero secreto ${numeroSecreto}`);
 }else {
     alert('Você errou :(');
 }
+/*
+Outra forma de fazer o if do numero secreto.
+if (chute == numeroSecreto) {
+    alert('Acertou')
+} else {
+    alert('O número secreto era ' + numeroSecreto)
+}*/
