@@ -7,18 +7,20 @@ Repositório com projetos, exercícios e desafios desenvolvidos durante o curso 
 ## 🗂 Estrutura do Repositório
 
 Logica-de-Programacao-main/
-├── Primeiro curso/ 
-│ ├── Curso 1/ 
-│ │ ├── index.html 
-│ │ ├── style.css 
-│ │ ├── app.js 
-│ │ └── img/ 
-│ └── exercicios/ 
-│ ├── desafios.html 
-│ ├── desafios.css 
-│ ├── desafios.js 
-│ └── img/ 
 
+```plaintext
+├── Primeiro curso/ 
+│   ├── Curso 1/ 
+│   │   ├── index.html 
+│   │   ├── style.css 
+│   │   ├── app.js 
+│   │   └── img/ 
+│   └── exercicios/ 
+│       ├── desafios.html 
+│       ├── desafios.css 
+│       ├── desafios.js 
+│       └── img/  
+```
 
 
 ## ⚙️ Como Executar
@@ -60,7 +62,7 @@ Criar pequenos projetos visuais e interativos com JS
 
 Registrar o progresso no aprendizado de front-end básico
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 HTML5
 
 CSS3
