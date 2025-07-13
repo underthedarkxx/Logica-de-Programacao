@@ -5,23 +5,26 @@ Repositório com projetos, exercícios e desafios desenvolvidos durante o curso 
 ---
 
 ## 🗂 Estrutura do Repositório
-
+```bash
 Logica-de-Programacao-main/
+├── Primeiro curso/
+│ ├── Curso 1/
+│ │ ├── index.html
+│ │ ├── style.css
+│ │ ├── app.js
+│ │ └── img/
+│ ├── Curso 2/
+│ │ ├── index.html
+│ │ ├── style.css
+│ │ ├── app.js
+│ │ └── img/
+│ └── exercicios/
+│ ├── desafios.html
+│ ├── desafios.css
+│ ├── desafios.js
+│ └── img/
 
-```plaintext
-├── Primeiro curso/ 
-│   ├── Curso 1/ 
-│   │   ├── index.html 
-│   │   ├── style.css 
-│   │   ├── app.js 
-│   │   └── img/ 
-│   └── exercicios/ 
-│       ├── desafios.html 
-│       ├── desafios.css 
-│       ├── desafios.js 
-│       └── img/  
 ```
-
 
 ## ⚙️ Como Executar
 
@@ -31,17 +34,29 @@ Você pode abrir os arquivos `.html` diretamente no navegador para visualizar os
 # Exemplo para abrir o projeto principal:
 cd Logica-de-Programacao-main/Primeiro\ curso/Curso\ 1
 start index.html  # ou apenas clique duas vezes no arquivo
-
+```
+```bash
+# Para o Curso 2:
+cd Logica-de-Programacao-main/Primeiro\ curso/Curso\ 2
+start index.html
 ```
 ## 🧩 Conteúdo por Módulo
-Curso 1 – Introdução com Projeto Gráfico
+
+### Curso 1 – Introdução com Projeto Gráfico
 HTML, CSS e JavaScript integrados
 
 Manipulação de DOM
 
 Reações visuais e interativas
 
-## Exercícios – Fixação de Conteúdo
+### Curso 2 – Continuação da Lógica
+Aplicações mais dinâmicas com JavaScript
+
+Lógica condicional avançada
+
+Estruturação de código e organização de arquivos
+
+### Exercícios – Fixação de Conteúdo
 Declaração de variáveis
 
 Operadores e lógica condicional (if, else)
@@ -53,21 +68,20 @@ Interação com o usuário (prompt, alert)
 Scripts dinâmicos com base em lógica simples
 
 ## 🎯 Objetivos do Projeto
+### Praticar os fundamentos da programação
 
-Praticar os fundamentos da programação
+### Desenvolver raciocínio lógico e resolução de problemas
 
-Desenvolver raciocínio lógico e resolução de problemas
+### Criar pequenos projetos visuais e interativos com JS
 
-Criar pequenos projetos visuais e interativos com JS
-
-Registrar o progresso no aprendizado de front-end básico
+### Registrar o progresso no aprendizado de front-end básico
 
 ## 🛠️ Tecnologias Utilizadas
-HTML5
+### HTML5
 
-CSS3
+### CSS3
 
-JavaScript (Vanilla)
+### vJavaScript (Vanilla)
 
 ## 📌 Como Contribuir
 Faça um fork do projeto
@@ -86,11 +100,11 @@ Push para a sua branch:
 git push origin minha-nova-feature
 Abra um Pull Request!
 ```
-👨‍💻 Autor
+##👨‍💻 Autor
 Roberto Dias
 Estudante de Sistemas de Informação – UVV
-GitHub: @underthedarkxx
-LinkedIn: roberto-dias-rdfa23
+### GitHub: @underthedarkxx
+### LinkedIn: roberto-dias-rdfa23
 
-📄 Licença
+## 📄 Licença
 Este projeto está licenciado sob a MIT License — ou conforme necessário.
